@@ -1,5 +1,5 @@
 # Spatial Sound Modulation through Manual Reconfiguration of Phased Plate
-
+[![DOI](https://zenodo.org/badge/{979139092}.svg)](https://zenodo.org/badge/latestdoi/{979139092})
 ## Authors
 
 - Soma Mochizuki
