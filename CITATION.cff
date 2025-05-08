@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "Cite as"
+authors:
+  - family-names: Mochizuki
+    given-names: Soma
+    orcid: https://orcid.org/0009-0009-5137-8955
+    website: https://soma-mochizuki.com/
+title: "Spatial Sound Modulation through Manual Reconfiguration of Phased Plate"
